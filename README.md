@@ -17,20 +17,20 @@ PostgreSQL, SQLite
 **Инфраструктура и CI/CD:**  
 Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions
 
-**API и интеграции:**
+**API и интеграции:**  
 REST API, JWT, Djoser, Telegram Bot API, Яндекс.Диск API
 
-**Тестирование:**
+**Тестирование:**  
 pytest, unittest
 
-**Другое:**
+**Другое:**  
 Git, Linux, логирование, OpenAPI (Swagger, Redoc)
 
 ---
 
 ## 🔗 Контакты и статус
 
-- **Email:** russinartem@gmail.com  
+- **Email:** russinartem@yandex.ru  
 - **Telegram:** [@Russin_from_Russia](https://t.me/Russin_from_Russia)  
 - **Резюме:** [Artem Russin CV](https://github.com/russinArtem/russinArtem/blob/main/Artem_Russin_CV_Backend-разработчик.pdf)
 
