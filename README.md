@@ -1,16 +1,51 @@
-## Hi there 👋
+# Привет, я Артем 👋
 
-<!--
-**russinArtem/russinArtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **backend-разработчик** с опытом в бизнес-анализе и автоматизации процессов. 
 
-Here are some ideas to get you started:
+Мой путь в разработку — осознанный: я прошёл через управление бизнес-процессами, low-code и BI, чтобы прийти к созданию продуктов с нуля. Я говорю на двух языках: языке бизнеса и языке кода. Это помогает мне видеть картину целиком и предлагать решения, которые действительно нужны заказчику.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Технологии и инструменты
+
+**Языки и фреймворки:**  
+Python, Django, DRF, Flask, FastAPI
+
+**Базы данных:**  
+PostgreSQL, SQLite
+
+**Инфраструктура и CI/CD:**  
+Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions
+
+**API и интеграции:**  
+REST API, JWT, Djoser, Telegram Bot API, Яндекс.Диск API
+
+**Тестирование:**  
+pytest, unittest
+
+**Другое:**  
+Git, Linux, логирование, OpenAPI (Swagger, Redoc)
+
+---
+
+## 🔗 Контакты и статус
+
+- **Email:** russinartem@gmail.com  
+- **Telegram:** [@Russin_from_Russia](https://t.me/Russin_from_Russia)  
+- **Резюме:** [Artem Russin CV](https://github.com/russinArtem/russinArtem/blob/main/Artem_Russin_CV_Backend-разработчик.pdf) (ссылка на твой PDF-файл, если зальёшь его в репо)
+
+**Статус:** открыт к предложениям о работе (удалённо / гибрид / Москва)
+
+---
+
+## 📌 Проекты в портфолио
+
+- [Blogicum](https://github.com/russinArtem/blogicum) — блог-платформа на Django  
+- [Foodgram](https://github.com/russinArtem/foodgram) — сервис рецептов с возможностью скачивания списка покупок  
+- [YaMDb](https://github.com/russinArtem/api-yamdb) — API для отзывов на произведения (командный проект)  
+- [YaCut](https://github.com/russinArtem/async-yacut) — асинхронный сервис сокращения ссылок  
+- [Бот-ассистент](https://github.com/russinArtem/assistant-bot) — Telegram-бот для проверки статуса домашних работ
+
+---
+
+> Профессиональное развитие строю осознанно. Постоянно углубляю знания: читаю документацию по фреймворкам, прохожу курсы на Stepik. Вне работы — спорт (бег, плавание, коньки/ролики, футбол).
