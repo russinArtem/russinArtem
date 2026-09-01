@@ -8,12 +8,12 @@
 
 ## 🛠 Технологии и инструменты
 
-### Языки и фреймворки:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**Языки и фреймворки:**  
+![Python](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### Базы данных:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -32,6 +32,7 @@
 
 ### Тестирование:
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Другое:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
