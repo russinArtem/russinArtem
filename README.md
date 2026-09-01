@@ -17,13 +17,13 @@ PostgreSQL, SQLite
 **Инфраструктура и CI/CD:**  
 Docker, Docker Compose, Nginx, Gunicorn, GitHub Actions
 
-**API и интеграции:**  
+**API и интеграции:**
 REST API, JWT, Djoser, Telegram Bot API, Яндекс.Диск API
 
-**Тестирование:**  
+**Тестирование:**
 pytest, unittest
 
-**Другое:**  
+**Другое:**
 Git, Linux, логирование, OpenAPI (Swagger, Redoc)
 
 ---
@@ -32,7 +32,7 @@ Git, Linux, логирование, OpenAPI (Swagger, Redoc)
 
 - **Email:** russinartem@gmail.com  
 - **Telegram:** [@Russin_from_Russia](https://t.me/Russin_from_Russia)  
-- **Резюме:** [Artem Russin CV](https://github.com/russinArtem/russinArtem/blob/main/Artem_Russin_CV_Backend-разработчик.pdf) (ссылка на твой PDF-файл, если зальёшь его в репо)
+- **Резюме:** [Artem Russin CV](https://github.com/russinArtem/russinArtem/blob/main/Artem_Russin_CV_Backend-разработчик.pdf)
 
 **Статус:** открыт к предложениям о работе (удалённо / гибрид / Москва)
 
@@ -40,11 +40,11 @@ Git, Linux, логирование, OpenAPI (Swagger, Redoc)
 
 ## 📌 Проекты в портфолио
 
-- [Blogicum](https://github.com/russinArtem/blogicum) — блог-платформа на Django  
-- [Foodgram](https://github.com/russinArtem/foodgram) — сервис рецептов с возможностью скачивания списка покупок  
-- [YaMDb](https://github.com/russinArtem/api-yamdb) — API для отзывов на произведения (командный проект)  
-- [YaCut](https://github.com/russinArtem/async-yacut) — асинхронный сервис сокращения ссылок  
-- [Бот-ассистент](https://github.com/russinArtem/assistant-bot) — Telegram-бот для проверки статуса домашних работ
+- [Foodgram](https://github.com/russinArtem/foodgram) — сервис рецептов с возможностью скачивания списка покупок
+- [Blogicum](https://github.com/russinArtem/blogicum) — блог-платформа на Django
+- [YaMDb](https://github.com/russinArtem/api-yamdb) — API для отзывов на произведения (командный проект)
+- [YaCut](https://github.com/russinArtem/async-yacut) — асинхронный сервис сокращения ссылок
+- [Бот-ассистент](https://github.com/russinArtem/assistant-bot) — Telegram-бот для проверки статуса проектов
 
 ---
 
