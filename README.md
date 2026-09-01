@@ -21,6 +21,7 @@
 
 **Инфраструктура и CI/CD:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -28,9 +29,10 @@
 **API и интеграции:**
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Djoser](https://img.shields.io/badge/Djoser-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-**Тестирование:**  
+**Тестирование:**
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=python&logoColor=white)
 
