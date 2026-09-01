@@ -8,24 +8,24 @@
 
 ## 🛠 Технологии и инструменты
 
-**Языки и фреймворки:**  
+**Языки и фреймворки:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Базы данных:**  
+**Базы данных:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-**Инфраструктура и CI/CD:**  
+**Инфраструктура и CI/CD:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-**API и интеграции:**  
+**API и интеграции:**
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
@@ -34,7 +34,7 @@
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=python&logoColor=white)
 
-**Другое:**  
+**Другое:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white)
