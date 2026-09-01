@@ -18,6 +18,7 @@
 **Базы данных:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Инфраструктура и CI/CD:**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -28,6 +29,7 @@
 
 **API и интеграции:**
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Djoser](https://img.shields.io/badge/Djoser-092E20?style=flat&logo=django&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
@@ -40,6 +42,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-6BA539?style=flat&logo=openapi-initiative&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AI](https://img.shields.io/badge/AI-DeepSeek-000000?style=flat-square&logo=deepseek&logoColor=white)
 
 ---
 
