@@ -29,10 +29,10 @@
 
 **API и интеграции:**
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Djoser](https://img.shields.io/badge/Djoser-092E20?style=flat&logo=django&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Тестирование:**
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
